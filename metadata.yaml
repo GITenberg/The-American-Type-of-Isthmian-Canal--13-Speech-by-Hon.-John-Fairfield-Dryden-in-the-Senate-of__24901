@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26801
     wikipedia: http://en.wikipedia.org/wiki/John_F._Dryden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24901#The-American-Type-of-Isthmian-Canal--13-Speech-by-Hon.-John-Fairfield-Dryden-in-the-Senate-of_
 gutenberg_issued: '2008-03-23'
 gutenberg_type: Text
 identifiers:
