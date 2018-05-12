@@ -1,0 +1,31 @@
+_repo: The-American-Type-of-Isthmian-Canal--13-Speech-by-Hon.-John-Fairfield-Dryden-in-the-Senate-of__24901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John F. (John Fairfield)
+    alias: Dryden, John Fairfield
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '26801'
+    url: http://www.gutenberg.org/2009/agents/26801
+    wikipedia: http://en.wikipedia.org/wiki/John_F._Dryden
+description: ''
+gutenberg_issued: '2008-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1561'
+- !lcsh 'Panama Canal (Panama)'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'TC'
+title: "The American Type of Isthmian Canal\r\nSpeech by Hon. John Fairfield Dryden\
+  \ in the Senate of the United States, June 14, 1906"
+url: http://www.gutenberg.org/ebooks/24901
